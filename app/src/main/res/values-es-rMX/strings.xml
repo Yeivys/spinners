@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="country_select_text">Selecciona tu país</string>
+	<string name="country_0">EUA</string>
+	<string name="country_1">México</string>
+	<string name="country_2">Brasil</string>
+	<string name="country_3">Francia</string>
+	<string name="country_4">Alemania</string>
+	<string name="country_5">Italia</string>}
+
+	<string-array name="country_spinner_items">
+		<item>@string/country_0</item>
+		<item>@string/country_1</item>
+		<item>@string/country_2</item>
+		<item>@string/country_3</item>
+		<item>@string/country_4</item>
+		<item>@string/country_5</item>
+	</string-array>
+	<string name="submit_button">Siguiente</string>
+	<string name="welcome">Bienvenido</string>
+</resources>

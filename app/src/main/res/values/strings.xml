@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name" translatable="false">App</string>
+	<string name="country_select_text" translatable="true">Selecciona tu país</string>
+	<string name="submit_button" translatable="true">Siguiente</string>
+	<string name="welcome" translatable="true">Bienvenido</string>
+
+	<string name="country_0" translatable="true">EUA</string>
+	<string name="country_1" translatable="true">México</string>
+	<string name="country_2" translatable="true">Brasil</string>
+	<string name="country_3" translatable="true">Francia</string>
+	<string name="country_4" translatable="true">Alemania</string>
+	<string name="country_5" translatable="true">Italia</string>
+
+	<string-array name="country_spinner_items">
+		<item>@string/country_0</item>
+		<item>@string/country_1</item>
+		<item>@string/country_2</item>
+		<item>@string/country_3</item>
+		<item>@string/country_4</item>
+		<item>@string/country_5</item>
+	</string-array>
+
+
+</resources>
+
+
+
